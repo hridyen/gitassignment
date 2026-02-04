@@ -1,1 +1,3 @@
 line from feature A
+line from feature B
+
